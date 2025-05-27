@@ -1,0 +1,32 @@
+.container {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+input {
+  margin-right: 10px;
+  padding: 5px;
+  width: 150px;
+  max-width: 100%;
+}
+
+button {
+  padding: 5px 10px;
+}
+
+.location {
+  font-size: 12px;
+  fill: black;
+}
+
+.svg-wrapper {
+  overflow-x: auto;
+  border: 1px solid #ccc;
+  margin-top: 20px;
+}
+
+.trip-svg {
+  min-width: 100%;
+}
